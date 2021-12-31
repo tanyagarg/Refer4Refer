@@ -1,0 +1,46 @@
+#mainContainer {
+    width: 75%;
+    /* padding-right: 15px;
+    padding-left: 15px; */
+    /* margin-right: auto;
+    margin-left: auto; */
+    background-color:aliceblue;
+    height: 100vh;
+}
+
+#test{
+    height: 70vh;
+}
+
+
+#middleContainer {
+   background-color: aq;
+   /* padding-top: 10%; */
+   margin-top: 10%;
+}
+
+
+#test {
+    background-color: aquamarine;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#referDiv {
+    background-color:aliceblue;
+    height: 70vh;
+}
+
+#userMainDiv {
+    height: 100vh;
+}
+
+#section1{
+    height: 10vh;
+}
+#section2{
+    height: 65vh;
+}
+#section3{
+    height: 20vh;
+}
